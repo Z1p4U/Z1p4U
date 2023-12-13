@@ -15,14 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 A Junior Full Stack Web Developer.<br>🙆‍♂️ Coffee, snacks, music and anime are my happy places.<br>🌱 I’m currently learning Vue 3 & Advanced Laravel .<br>👯 I’m collaborating on Web-POS & E-commerce Api Projects .<br>👀 I'm looking for a Web Development Team.<br>📫 You can reach me using accounts described on my profile.<br>😄 Pronouns: Zip<br>⚡ Fun fact : A Lowres Member! <br>
++ 👨‍💻 I'm a Junior Full Stack Web Developer.
++ 🙆‍♂️ Coffee, snacks, music and anime are my happinesses.
++ 🌱 I’m currently learning Vue 3, Nuxt & Advanced Laravel.
++ 👯 I’m collaborating on Web-POS & E-commerce Api Projects.
++ 👀 I'm looking for a Web Development Team.
++ 📫 You can reach me using accounts described on my profile.
++ ⚡ Fun fact : Lowres Member!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8338ec&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ThantZinHtet;I'm+Junior+Full+Stack+Web+Developer;I'm+from+Myanmar;Feel+Free+To+Contact+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ThantZinHtet;I'm+Junior+Full+Stack+Web+Developer;;Feel+Free+To+Contact+me!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010478018386) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zip-p-aa3154204/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thantzinhtet2001@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010478018386) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zip-p-aa3154204/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thantzinhtet2001@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -65,10 +73,8 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Z1p4U&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Z1p4U&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1p4U&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Z1p4U&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Z1p4U&theme=midnight-purple&hide_border=false)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
