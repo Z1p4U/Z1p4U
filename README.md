@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👨‍💻 I'm Junior Full Stack Web Developer.<br>🙆‍♂️ Coffee, snacks, music and anime are my happy places.<br>🌱 I’m currently learning Vue 3 & Advanced Laravel .<br>👯 I’m collaborating on Web-POS & E-commerce Api Projects .<br>👀 I'm looking for a Web Development Team.<br>📫 You can reach me using accounts described on my profile.<br><br>😄 Pronouns: Zip <br><br>⚡ Fun fact : A Lowres Member! <br>
+👨‍💻 I'm Junior Full Stack Web Developer.<br>🙆‍♂️ Coffee, snacks, music and anime are my happy places.<br>🌱 I’m currently learning Vue 3 & Advanced Laravel .<br>👯 I’m collaborating on Web-POS & E-commerce Api Projects .<br>👀 I'm looking for a Web Development Team.<br>📫 You can reach me using accounts described on my profile.<br>😄 Pronouns: Zip<br>⚡ Fun fact : A Lowres Member! <br>
 
 
 ## 🌐 Socials:
