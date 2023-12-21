@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8338ec&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ThantZinHtet;I'm+Junior+Full+Stack+Web+Developer;;Feel+Free+To+Contact+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thant+Zin+Htet;I'm+Junior+Full+Stack+Web+Developer;Feel+Free+To+Contact+me!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010478018386) 
